@@ -1,0 +1,16 @@
+C:\Users\vic\Desktop\自製準心\自製準心\bin\Debug\自製準心.exe
+C:\Users\vic\Desktop\自製準心\自製準心\bin\Debug\自製準心.pdb
+C:\Users\vic\Desktop\自製準心\自製準心\obj\x86\Debug\自製準心.Properties.Resources.resources
+C:\Users\vic\Desktop\自製準心\自製準心\obj\x86\Debug\自製準心.csproj.GenerateResource.Cache
+C:\Users\vic\Desktop\自製準心\自製準心\obj\x86\Debug\自製準心.exe
+C:\Users\vic\Desktop\自製準心\自製準心\obj\x86\Debug\自製準心.pdb
+C:\Users\vic\Desktop\自製準心\自製準心\obj\x86\Debug\自製準心.Form1.resources
+C:\Users\vic\Desktop\自製準心\自製準心\obj\x86\Debug\自製準心.csprojResolveAssemblyReference.cache
+D:\程式\自製準心\自製準心\obj\x86\Debug\自製準心.exe
+D:\程式\自製準心\自製準心\obj\x86\Debug\自製準心.pdb
+D:\程式\自製準心\自製準心\bin\Debug\自製準心.exe
+D:\程式\自製準心\自製準心\bin\Debug\自製準心.pdb
+D:\程式\自製準心\自製準心\obj\x86\Debug\自製準心.csprojResolveAssemblyReference.cache
+D:\程式\自製準心\自製準心\obj\x86\Debug\自製準心.Form1.resources
+D:\程式\自製準心\自製準心\obj\x86\Debug\自製準心.Properties.Resources.resources
+D:\程式\自製準心\自製準心\obj\x86\Debug\自製準心.csproj.GenerateResource.Cache
